@@ -40,7 +40,8 @@ Có **5** loại giá trị vị trí khác nhau:
 
 </html>
 ```
-- Mở file `static.html` trên trình duyệt, bạn sẽ thấy output như sau: 
+- Mở file `static.html` trên trình duyệt, bạn sẽ thấy output như sau:
+
 ![static.html](/images/static.png)
 
 ## 2. Relative
@@ -76,4 +77,5 @@ Có **5** loại giá trị vị trí khác nhau:
 </html>
 ```
 - Mở file `relative.html` trên trình duyệt, bạn sẽ thấy output như sau: 
+
 ![relative.html](/images/relative.png)
